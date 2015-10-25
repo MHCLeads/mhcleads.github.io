@@ -172,6 +172,9 @@ a:focus {
 .tab {
     color:#FF0000;
 }
+.white{
+    color:#fff;
+}
 
 @media(min-width:768px) {
     .intro {
